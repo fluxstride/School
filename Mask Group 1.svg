@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="221.5" height="221.5" viewBox="0 0 221.5 221.5">
+  <defs>
+    <clipPath id="clip-path">
+      <circle id="Ellipse_2" data-name="Ellipse 2" cx="110.75" cy="110.75" r="110.75" fill="#18ac2c" opacity="0.07"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_1" data-name="Mask Group 1" clip-path="url(#clip-path)">
+    <g id="img1" transform="translate(32.755)">
+      <g id="Group_1" data-name="Group 1" transform="translate(21.106 167.922)">
+        <path id="Path_1" data-name="Path 1" d="M188.646,254.565a57.187,57.187,0,0,0-33.053-30.922H130.948l-22.842,13.685v35.036l-4.857,4.857h90.113a56.538,56.538,0,0,0-4.715-22.656Z" transform="translate(-79.586 -223.643)" fill="#efedff"/>
+        <path id="Path_2" data-name="Path 2" d="M114.526,223.643h-5.031a57.181,57.181,0,0,0-33.046,30.922,56.542,56.542,0,0,0-4.715,22.655h42.792V257.829a9.4,9.4,0,0,1,4.7-8.138l9.4-5.426V223.643Z" transform="translate(-71.734 -223.643)" fill="#d4d4ff"/>
+      </g>
+      <path id="Path_3" data-name="Path 3" d="M141.152,209.944,122.025,220.23c3.358,8.808,10.077,15.784,19.127,20.622,9.049-4.839,15.76-11.815,19.119-20.622Z" transform="translate(-63.158 -52.308)" fill="#c8866a"/>
+      <g id="Group_2" data-name="Group 2" transform="translate(9.804 34.261)">
+        <path id="Path_4" data-name="Path 4" d="M136.173,46.871H123.148a28.19,28.19,0,0,0-22.183,10.794L56.682,114.129l44.283,56.464a28.189,28.189,0,0,0,22.183,10.79h13.025a68.2,68.2,0,0,0,0-134.512Z" transform="translate(-56.682 -45.939)" fill="#db9e82"/>
+        <path id="Path_5" data-name="Path 5" d="M79.286,113.82a68.211,68.211,0,0,1,56.887-67.258,68.191,68.191,0,1,0,0,134.512A68.114,68.114,0,0,1,79.286,113.82Z" transform="translate(-56.682 -45.629)" fill="#c8866a"/>
+      </g>
+      <g id="Group_3" data-name="Group 3" transform="translate(29.861 127.463)">
+        <ellipse id="Ellipse_3" data-name="Ellipse 3" cx="12.872" cy="10.251" rx="12.872" ry="10.251" fill="#ffdbe0"/>
+        <ellipse id="Ellipse_4" data-name="Ellipse 4" cx="12.925" cy="10.251" rx="12.925" ry="10.251" transform="translate(70.416)" fill="#ffdbe0"/>
+      </g>
+      <path id="Path_6" data-name="Path 6" d="M161.029,180.906a11.491,11.491,0,0,1-8.113-3.49,8.9,8.9,0,0,0-13.221.693,8.9,8.9,0,0,0-13.221-.693,11.493,11.493,0,0,1-8.113,3.49,2.188,2.188,0,0,0-2.141,2.621,13.35,13.35,0,0,0,23.475,5.767,13.35,13.35,0,0,0,23.475-5.767A2.188,2.188,0,0,0,161.029,180.906Z" transform="translate(-61.701 -43.552)" fill="#ac6757"/>
+      <g id="Group_6" data-name="Group 6">
+        <path id="Path_7" data-name="Path 7" d="M198.345,21.821a78.1,78.1,0,0,0-13.727-9.461L147.492,57.683V98.472a103.425,103.425,0,0,0,66.1,23.886,77.991,77.991,0,0,0-15.25-100.537Z" transform="translate(-69.503 -3.079)" fill="#ffce71"/>
+        <g id="Group_5" data-name="Group 5">
+          <path id="Path_8" data-name="Path 8" d="M165.716,9.372A77.765,77.765,0,0,0,128.663,0L72.47,26.334V104.57l12.221,12.221A103.26,103.26,0,0,0,165.716,9.372Z" transform="translate(-50.811)" fill="#ffb357"/>
+          <g id="Group_4" data-name="Group 4">
+            <path id="Path_9" data-name="Path 9" d="M121.476,0A77.845,77.845,0,0,0,55.5,119.164,103.182,103.182,0,0,0,77.5,116.791,96.381,96.381,0,0,1,121.476,0Z" transform="translate(-43.624)" fill="#fc8a3d"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_7" data-name="Group 7" transform="translate(46.819 121.446)">
+        <path id="Path_10" data-name="Path 10" d="M109.322,161.745a3.343,3.343,0,0,0-3.343,3.343v5.348a3.343,3.343,0,1,0,6.685,0v-5.348A3.343,3.343,0,0,0,109.322,161.745Z" transform="translate(-105.98 -161.745)" fill="#313d40"/>
+        <path id="Path_11" data-name="Path 11" d="M183.457,161.745a3.343,3.343,0,0,0-3.343,3.343v5.348a3.343,3.343,0,1,0,6.685,0v-5.348A3.343,3.343,0,0,0,183.457,161.745Z" transform="translate(-124.451 -161.745)" fill="#313d40"/>
+      </g>
+      <circle id="Ellipse_5" data-name="Ellipse 5" cx="3.343" cy="3.343" r="3.343" transform="translate(74.651 204.787)" fill="#d4d4ff"/>
+    </g>
+  </g>
+</svg>

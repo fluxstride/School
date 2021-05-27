@@ -1,0 +1,123 @@
+*, *::before, *::after {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+body {
+  font-size: 16px;
+  margin: 0;
+  padding: 0;
+  background-color: #ffffff;
+  font-family: Rubik;
+  display: -ms-grid;
+  display: grid;
+  height: 100vh;
+}
+
+.container {
+  margin-top: 2em;
+  -ms-grid-column-align: center;
+      justify-self: center;
+  width: 300px;
+}
+
+nav {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.logo {
+  color: #189E2A;
+  font-weight: 700;
+  font-size: 1.3em;
+}
+
+.hamBurger {
+  display: -ms-grid;
+  display: grid;
+}
+
+.inner-ham {
+  -webkit-transform: translateY(21px);
+          transform: translateY(21px);
+}
+
+.inner-ham div {
+  position: relative;
+  width: 35px;
+  height: 1.2px;
+  background-color: #189E2A;
+  -webkit-transition: 300ms ease-in-out;
+  transition: 300ms ease-in-out;
+}
+
+.inner-ham div::before {
+  width: 35px;
+  height: 1.2px;
+  background-color: #189E2A;
+  content: '';
+  -webkit-transform: translateY(-12px);
+          transform: translateY(-12px);
+  position: absolute;
+}
+
+.inner-ham div:hover {
+  -webkit-transform: rotate(45deg);
+          transform: rotate(45deg);
+}
+
+.inner-ham div::before:hover {
+  -webkit-transform: rotate(-45deg);
+          transform: rotate(-45deg);
+}
+
+h1 {
+  color: rgba(0, 0, 0, 0.7);
+  font-size: 2.5rem;
+  line-height: 3rem;
+  margin-top: 1.5em;
+}
+
+p {
+  margin-top: -.7em;
+  color: rgba(0, 0, 0, 0.45);
+  font-weight: 500;
+}
+
+button {
+  margin-top: 1.7em;
+  font-weight: 500;
+  letter-spacing: 1px;
+  padding: .8em 3em;
+  color: #ffffff;
+  font-size: 1;
+  background-color: #189E2A;
+  border: none;
+  border-radius: 5px;
+}
+
+img {
+  width: 250px;
+  display: block;
+  position: absolute;
+  right: 0;
+  bottom: 50px;
+}
+
+footer {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  height: 50px;
+  background-color: #189E2A;
+  width: 100vw;
+  text-align: center;
+  line-height: 50px;
+  font-weight: 500;
+  color: #ffffffc7;
+}
+/*# sourceMappingURL=style.css.map */
